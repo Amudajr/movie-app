@@ -1,0 +1,29 @@
+.cont{ 
+    float: left;
+    width: 85rem;
+    height: auto;
+}
+
+.ro{
+    margin: 8px -16px;
+    display: inline-block;
+}
+
+.ro,
+.ro > .cont {
+  padding: 8px;
+  margin: 5px;
+}
+
+.ro li{
+    display: inline-block;
+}
+
+.ro p{
+    float: right;
+}
+
+
+
+
+
